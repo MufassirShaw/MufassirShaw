@@ -1,4 +1,4 @@
-# Hi there, I'm Mufassir 👋
+# Hello there, I'm Mufassir 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Blockchain+Enthusiast;Smart+Contract+Developer;Web3+Explorer" alt="Typing SVG" />
